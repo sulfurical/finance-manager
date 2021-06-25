@@ -1,0 +1,9 @@
+expense catagories:
+
+food 
+housing
+bills
+entertainment
+transport
+eating out 
+other
